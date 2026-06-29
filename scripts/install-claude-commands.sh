@@ -9,3 +9,4 @@ cp "$ROOT"/skills/*.md "$DEST"/
 chmod +x "$ROOT"/tools/*.py "$ROOT"/tools/*.sh 2>/dev/null || true
 
 echo "Installed Claude Code commands to $DEST"
+、
